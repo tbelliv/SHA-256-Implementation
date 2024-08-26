@@ -1,6 +1,10 @@
 SHA-256 Implementation
 
+***************************************************
+
 ***** Currently limited to inputs <= 512 bits *****
+
+***************************************************
 
 This script implements a basic SHA-256 hashing algorithm in Python.
 
