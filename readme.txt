@@ -9,7 +9,7 @@ Usage:
 
 Description:
 * translate: Converts a string into binary.
-* rounding: Pads binary data to 448 bits.
+* rounding: Pads binary data.
 * append64str: Appends the length of the message as 64-bit binary.
 * split_into_chunks: Splits binary data into 32-bit chunks.
 * fractional_to_binary: Converts fractional numbers to binary.
